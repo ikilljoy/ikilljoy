@@ -1,40 +1,37 @@
-# Hi there, I'm Jon - aka [KILLJOY][youtube] 👋 
+# Hi there, I'm Jon - aka [KILLJOY][website] 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=iKILLJOY.Dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ikilljoy.dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/iKilljoy13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=iKilljoy13)
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
+[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=KILLJOYS%20Workshop%20Submissions&logo=&logoColor=ff652f&style=for-the-badge)](https://steamcommunity.com/id/iKILLJOY/myworkshopfiles/)
+[![Become A VS Code SuperHero](https://img.shields.io/badge/-Join%20my%20Discord%20server%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://discord.gg/44q6zv6PER)
 
 
 ## About me & Goals
 
-- 🖥️ I've hosted & Modded a DayZ Server since 2013 - Current, Check out some of my public mods here!': [KILLJOYS Workshop][workshop]!
+- 🖥️ I've hosted & Modded a DayZ Server since 2013 - Current, Check out some of my public mods: [here][workshop]!
 - 🗓️ 2022 Goals: | Security+ | Networking+ | A+ Certifications |
 - 🏫 Currently enrolled in: CompTIA Security+ (SY0-601)
+- 🛠️ Current project: KILLJOYS IT Toolkit (KIT) Coming soon!
 - 👯 I’m always looking to collaborate with other content creators
-- 🖌️ Freelance Photoshop / Graphic Designer / 3D Modeling
-- 🕹️ My DayZ Server: DAWN OF THE DEAD [DOTD](https://DOTDdayz.com)
+- 🎨 Freelance | Photoshop | Graphic Design | 3D Modeling | Enforce Script |
+- 🕹️ My DayZ Server: DAWN OF THE DEAD | [DOTD](https://DOTDdayz.com) |
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://ikilljoy.dev#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://ikilljoy.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/playlist?list=PLszEzCXmDA6muRMrvYo3i-daKFtQ4F2iH/#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/playlist?list=PLszEzCXmDA6muRMrvYo3i-daKFtQ4F2iH#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/ikilljoy13#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/ikilljoy13#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/#gh-dark-mode-only)
 
-### Languages and Tools:
+### Languages, Tools and Resources:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
@@ -71,29 +68,28 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Friends & Repositories to look into
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Bohemia Interactive &lpar;Central-Economy/Samples&rpar;](https://github.com/BohemiaInteractive)
+- [Expansion Team &lpar;Mission Templates/Configs&rpar;](https://github.com/ExpansionModTeam)
+- [Helkhiana &lpar;MSP Scripts etc.&rpar;](https://github.com/helkhiana)
+- [BaseBuildingPlus &lpar;Configs/Documentation&rpar;](https://github.com/FelixForesight2020/BaseBuildingPlus)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more coming soon!]()
 
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>✔️ 2022 Timeline</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-2. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
+1. ⚙️ Security+ (SY0-601) Certification | Status: IN PROGRESS [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5)
+2. ⚙️ IT Toolkit Development | Status: IN PROGRESS | [https://pbs.twimg.com/media/FQkLXU8XMBMi5DJ?format=jpg&name=small]
+3. ❌ Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+4. ❌ Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
+5. ❌ Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
 <!--END_SECTION:activity-->
 
 </details>
