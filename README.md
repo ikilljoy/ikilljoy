@@ -9,18 +9,18 @@
 
 ## About me & Goals
 
-- 🖥️ I've hosted & Modded a DayZ Server since 2013 - Current, Check out some of my public mods: [here][workshop]!
-- 🗓️ 2022 Goals: | Security+ | Networking+ | A+ Certifications |
-- 🏫 Currently enrolled in: CompTIA Security+ (SY0-601)
-- 🛠️ Current project: KILLJOYS IT Toolkit (KIT) Coming soon!
+- 🌎 My Website: [KILLJOY.DEV](https://killjoy.dev)
+- 👨🏽‍💻 My TryHackMe profile: [TryHackMe](https://tryhackme.com/p/KILLJOY) 
+- 🖥️ I've hosted & Modded a DayZ Server since 2013 - 2023, Check out some of my public mods: [here][workshop]!
+- 🗓️ 2024 Goals: | Security+ | Networking+ | A+ Certifications |
+- 🏫 Currently studying for: CompTIA Security+ (SY0-601)
 - 👯 I’m always looking to collaborate with other content creators
 - 🎨 Freelance | Photoshop | Graphic Design | 3D Modeling | Enforce Script |
-- 🕹️ My DayZ Server: DAWN OF THE DEAD | [DOTD](https://DOTDdayz.com) |
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://ikilljoy.dev#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://ikilljoy.dev#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://killjoy.dev#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://killjoy.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/playlist?list=PLszEzCXmDA6muRMrvYo3i-daKFtQ4F2iH/#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/playlist?list=PLszEzCXmDA6muRMrvYo3i-daKFtQ4F2iH#gh-dark-mode-only)
