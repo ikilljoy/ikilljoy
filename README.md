@@ -1,6 +1,6 @@
 # Hi there, I'm Jon - aka [KILLJOY][website] 👋 
 
-[![Website](https://img.shields.io/website?label=iKILLJOY.Dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ikilljoy.dev)
+[![Website](https://img.shields.io/website?label=KILLJOY.Dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://killjoy.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iKilljoy13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=iKilljoy13)
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=KILLJOYS%20Workshop%20Submissions&logo=&logoColor=ff652f&style=for-the-badge)](https://steamcommunity.com/id/iKILLJOY/myworkshopfiles/)
@@ -82,7 +82,7 @@
 ---
 
 <details>
-  <summary>✔️ 2022 Timeline</summary>
+  <summary>✔️ 2024 Timeline</summary>
   
 <!--START_SECTION:activity-->
 1. ⚙️ Security+ (SY0-601) Certification | Status: IN PROGRESS [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5)
@@ -101,7 +101,7 @@
 
 </details>
 
-[website]: https://ikilljoy.dev
+[website]: https://killjoy.dev
 [workshop]: https://steamcommunity.com/id/iKILLJOY/myworkshopfiles/
 [youtube]: https://www.youtube.com/channel/UCDO3P7Ex6yyRfZOMo-c0S7A
 [linkedin]: https://linkedin.com/in/codeSTACKr
